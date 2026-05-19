@@ -1,4 +1,14 @@
 # Performance Evaluation of Dijkstra and A* Algorithms
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/Report-LaTeX-008080?logo=latex&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-11557c)
+
+![Domain](https://img.shields.io/badge/Domain-IoT_%26_Autonomous_Systems-4CAF50)
+![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra_%7C_A*-F28D1A)
+![Heuristics](https://img.shields.io/badge/Heuristics-Manhattan_%7C_Euclidean-9B59B6)
+
+![Repo Size](https://img.shields.io/github/repo-size/G-Danush/Performance-Evaluation-of-Dijkstra-and-A-Algorithms)
+![Last Commit](https://img.shields.io/github/last-commit/G-Danush/Performance-Evaluation-of-Dijkstra-and-A-Algorithms)
 
 This repository contains the source code and formal LaTeX report for my assignment in the **Technologies for IoT & Autonomous Systems** course at IIIT Sri City. 
 
