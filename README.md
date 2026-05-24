@@ -9,6 +9,7 @@
 
 ![Repo Size](https://img.shields.io/github/repo-size/G-Danush/Performance-Evaluation-of-Dijkstra-and-A-Algorithms)
 ![Last Commit](https://img.shields.io/github/last-commit/G-Danush/Performance-Evaluation-of-Dijkstra-and-A-Algorithms)
+![GitHub stars](https://img.shields.io/github/stars/G-Danush/iSWaMS-IoT-Smart-Waste-Management?style=social)
 
 This repository contains the source code and formal LaTeX report for my assignment in the **Technologies for IoT & Autonomous Systems** course at IIIT Sri City. 
 
